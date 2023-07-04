@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.broot02</groupId>
     <artifactId>simple-cqrs-java-cdi</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>simple-cqrs-java-cdi</name>
     <description>CDI implementation of simple-cqrs-java</description>
